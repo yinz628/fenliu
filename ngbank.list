@@ -1,27 +1,51 @@
-# 内容：NGBANK
-# 数量：19条
+# palmpay
+
 DOMAIN-KEYWORD,palmpay
 DOMAIN-KEYWORD,palmpay-inc
+
+# opay
 DOMAIN-KEYWORD,opay
 DOMAIN-KEYWORD,opayweb
+DOMAIN-SUFFIX,opayweb.com
+
+# paga
 DOMAIN-KEYWORD,paga
+DOMAIN-SUFFIX,mypaga.com
+DOMAIN-SUFFIX,paga.com
+# moniepoint
 DOMAIN-KEYWORD,moniepoint
+
+# kuda
 DOMAIN-KEYWORD,kuda
+
+# kredi
 DOMAIN-KEYWORD,kredi
 
-DOMAIN-SUFFIX,opayweb.com
+# kongapay
 DOMAIN-SUFFIX,kongapay.com
+
+
+# mtn
+DOMAIN-KEYWORD,mtn
+
+# fairmoeny
+DOMAIN-SUFFIX,clevertap-prod.com
+DOMAIN-KEYWORD,fairmoney
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,app-analytics-services-att.com
+
+# providusbank
+DOMAIN-SUFFIX,providusbank.com
+
 DOMAIN-SUFFIX,obscudo.com
 DOMAIN-SUFFIX,lendsqr.com
-DOMAIN-SUFFIX,providusbank.com
-DOMAIN-SUFFIX,moniepoint.com
-DOMAIN-SUFFIX,mypaga.com
+
+#其他
+
 DOMAIN-SUFFIX,kochave.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,cdp-eu.customer.io
-DOMAIN-SUFFIX,paga.com
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,kuda.com
 DOMAIN-SUFFIX,mtnnigeria.net
 DOMAIN-SUFFIX,mtnonline.com
 DOMAIN-SUFFIX,nimc.gov.ng
@@ -34,7 +58,6 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,siterable.com
-DOMAIN-KEYWORD,mtn
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,googleapis.com
@@ -43,8 +66,4 @@ DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,bugsnag.com
-# fairmoeny
-DOMAIN-SUFFIX,clevertap-prod.com
-DOMAIN-KEYWORD,fairmoney
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,app-analytics-services-att.com
+
