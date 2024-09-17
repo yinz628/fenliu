@@ -37,11 +37,11 @@ DOMAIN-SUFFIX,app-analytics-services-att.com
 # providusbank
 DOMAIN-SUFFIX,providusbank.com
 
-DOMAIN-SUFFIX,obscudo.com
-DOMAIN-SUFFIX,lendsqr.com
 
 #其他
-
+DOMAIN-KEYWORD,remitano
+DOMAIN-SUFFIX,obscudo.com
+DOMAIN-SUFFIX,lendsqr.com
 DOMAIN-SUFFIX,kochave.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,cdp-eu.customer.io
