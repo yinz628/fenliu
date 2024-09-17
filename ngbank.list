@@ -8,7 +8,7 @@ DOMAIN-KEYWORD,paga
 DOMAIN-KEYWORD,moniepoint
 DOMAIN-KEYWORD,kuda
 DOMAIN-KEYWORD,kredi
-DOMAIN-KEYWORD,fairmoney
+
 DOMAIN-SUFFIX,opayweb.com
 DOMAIN-SUFFIX,kongapay.com
 DOMAIN-SUFFIX,obscudo.com
@@ -43,3 +43,8 @@ DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,bugsnag.com
+# fairmoeny
+DOMAIN-SUFFIX,clevertap-prod.com
+DOMAIN-KEYWORD,fairmoney
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,app-analytics-services-att.com
