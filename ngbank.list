@@ -47,6 +47,11 @@ DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,saedine.ai
 DOMAIN-SUFFIX,graph.facebook.com
 
+# busha
+DOMAIN-KEYWORD,busha
+DOMAIN-SUFFIX,airtable.com
+
+
 # 其他
 DOMAIN-KEYWORD,remitano
 DOMAIN-SUFFIX,obscudo.com
@@ -73,6 +78,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,bugsnag.com
 
