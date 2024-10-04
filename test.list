@@ -1,4 +1,5 @@
 # 内容：test
 # 数量：1条
-DOMAIN-SUFFIX,code.feimails.com
+DOMAIN-SUFFIX,feimails.com
 IP-CIDR,37.128.253.0/24
+IP-CIDR,154.16.1.0/24
