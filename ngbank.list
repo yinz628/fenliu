@@ -53,6 +53,12 @@ DOMAIN-KEYWORD,busha
 DOMAIN-SUFFIX,airtable.com
 
 
+
+# timon
+DOMAIN-SUFFIX,timon.cards
+DOMAIN-SUFFIX,smartlook.cloud
+DOMAIN-SUFFIX,xtom.com
+
 # 其他
 DOMAIN-KEYWORD,remitano
 DOMAIN-SUFFIX,obscudo.com
