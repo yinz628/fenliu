@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,dkys.org
 DOMAIN-SUFFIX,tcpspeed.com
 DOMAIN-SUFFIX,wn1998.com
 DOMAIN-SUFFIX,gvt2.com
+DOMAIN-REGEX,^beacons\d+\.gvt\d+\.com$
