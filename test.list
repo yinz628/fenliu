@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,code.feimails.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,scanlab.cc
 DOMAIN-SUFFIX,scanengine.cc
+IP-CIDR,45.205.24.230,no-resolve
